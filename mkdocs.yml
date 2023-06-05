@@ -1,0 +1,7 @@
+site_name: 'wills-test-app-12 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
